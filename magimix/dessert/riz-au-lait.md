@@ -10,6 +10,6 @@
 ## Préparation
 
 Mettre tous les ingredients dans la cuve.
-Lancer le programme EXPERT, 33 minutes/vitesse 2A/98°C
+Lancer le programme EXPERT, 33 minutes/vitesse 2A/98°C.
 Transvaser le riz au lait dans un saladier ou dans des ramequins. 
 Laisser refroidir puis mettre au réfrigérateur.
