@@ -7,7 +7,7 @@
 - 80 g de sucre
 - 2 c.s. d'arôme naturel de vanille bourbon ou une gousse de Vanille
 
-# Préparation
+## Préparation
 
 Mettre tous les ingredients dans la cuve.
 Lancer le programme EXPERT, 33 minutes/vitesse 2A/98°C
