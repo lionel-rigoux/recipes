@@ -4,7 +4,7 @@
 
 - 1 l de lait entier UHT
 - 150 g de riz rond
-- 80 g de sucre
+- 50 g de sucre
 - 2 c.s. d'arôme naturel de vanille bourbon ou une gousse de Vanille
 
 ## Préparation
