@@ -26,6 +26,7 @@ Adapté de [Cuisine addict](https://cuisine-addict.com/moussaka-rapide/)
 - Ajouter les épices et l'ail écrasé, faire revenir quelques instants.
 - Rajouter ensuite le concentré de tomate et le bouillon avec un peu d'eau et laisser mijoter.
 - Pendant ce temp, préparer la sauce béchamel.
+- Rincer et essuyer les aubergines.
 - Dans un plat allant au four, mettre en couches: viande, pommes de terre, aubergines, tomates, courgettes.
 - Couvrir de la sauce béchamel, et ajouter le fromage rapé. 
 - Enfourner 40 min à 180°.
